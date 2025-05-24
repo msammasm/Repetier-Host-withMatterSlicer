@@ -5,6 +5,8 @@ Descompactar o arquivo src.zip e ser feliz após compilação, utilizar Visual S
 
 ![image](https://github.com/user-attachments/assets/9d219965-b175-41ca-ba7d-f4a51a7a8b6c)
 
+![image](https://github.com/user-attachments/assets/6e407a95-c1f5-42da-bdd6-efb6fed2870e)
+
 Software Original (Repetier-Host) for controlling RepRap style 3D-printer like Mendel, Darwin or 
 Prusa mendel. Works with most firmware types. It is optimized to work
 with [Repetier-Firmware](https://github.com/repetier/Repetier-Firmware)
